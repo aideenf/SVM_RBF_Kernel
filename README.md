@@ -1,3 +1,3 @@
 # SVM_RBF_Kernel
 SVM RBF Jupyter Notebook
-https://mybinder.org/v2/gh/aideenf/SVM_RBF_Kernel/master
+https://hub.mybinder.org/user/aideenf-svm_rbf_kernel-y7et6oyj/notebooks/SVM_RBF_Kernel.ipynb
